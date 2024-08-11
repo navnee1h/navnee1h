@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navaneeth M S</h1>
 <h3 align="center">I'm a second-year BSc Cyber Forensic student with a passion for cybersecurity. I'm eager to learn and connect with like-minded tech and cybersecurity enthusiasts.🌐💻🔒</h3>
 
-- 🔭 I’m currently working on [Passlord](github.com/navnee1h/passlord)
+- 🔭 I’m currently working on [Passlord](https://github.com/navnee1h/passlord)
 
 - 🌱 I’m currently learning **Cyber forensics and hacking.**
 
