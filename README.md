@@ -12,8 +12,6 @@
 - 💬 Ask me about **Cyber security, Digital forensic, Ctf's.**
 
 - 📫 How to reach me **navaneethms182@gmail.com**
-### 👤 Profile Visit:
-![Visitor Count](https://profile-counter.glitch.me/navnee1h/count.svg)
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://navnee1h.medium.com/passlord-your-ultimate-weapon-for-creating-tailored-wordlists-924a491e9a0f"> PassLord: Breaching Security</a></li>
