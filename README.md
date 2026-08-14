@@ -25,6 +25,7 @@
 
 ### 🏅 Certifications
 
+<img src="https://img.shields.io/badge/eJPT-252525?style=for-the-badge" alt="CRTP" />
 <img src="https://img.shields.io/badge/eJPT-252525?style=for-the-badge" alt="eJPT" />
 <img src="https://img.shields.io/badge/CAP-252525?style=for-the-badge" alt="CAP" />
 <img src="https://img.shields.io/badge/CNSP-252525?style=for-the-badge" alt="CNSP" />
